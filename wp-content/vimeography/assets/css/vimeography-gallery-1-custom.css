@@ -1,0 +1,5 @@
+#vimeography-gallery-1.vimeography-bugsauce .vimeography-thumbnails .vimeography-slides li.vimeography-bugsauce-active-slide img { border-color: #0f8983; } 
+#vimeography-gallery-1.vimeography-bugsauce .vimeography-thumbnails .vimeography-slides li img { border-color: #dddddd; } 
+#vimeography-gallery-1.vimeography-bugsauce .vimeography-bugsauce-direction-nav a.vimeography-bugsauce-prev span { border-right-color: #f89838; } 
+#vimeography-gallery-1.vimeography-bugsauce .vimeography-bugsauce-direction-nav a.vimeography-bugsauce-next span { border-left-color: #f89838; } 
+#vimeography-gallery-1.vimeography-bugsauce .vimeography-main .vimeography-spinner div div { background-color: #0f8983 !important; } 

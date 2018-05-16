@@ -1,0 +1,537 @@
+O:8:"stdClass":5:{s:5:"total";i:33;s:4:"page";i:1;s:8:"per_page";i:25;s:6:"paging";O:8:"stdClass":4:{s:4:"next";s:159:"/albums/4839238/videos?fields=name%2Curi%2Clink%2Cdescription%2Cduration%2Cwidth%2Cheight%2Cembed%2Ctags.name%2Ccreated_time%2Cstats%2Cpictures%2Cstatus&page=2";s:8:"previous";N;s:5:"first";s:159:"/albums/4839238/videos?fields=name%2Curi%2Clink%2Cdescription%2Cduration%2Cwidth%2Cheight%2Cembed%2Ctags.name%2Ccreated_time%2Cstats%2Cpictures%2Cstatus&page=1";s:4:"last";s:159:"/albums/4839238/videos?fields=name%2Curi%2Clink%2Cdescription%2Cduration%2Cwidth%2Cheight%2Cembed%2Ctags.name%2Ccreated_time%2Cstats%2Cpictures%2Cstatus&page=2";}s:9:"video_set";a:25:{i:0;O:8:"stdClass":13:{s:3:"uri";s:17:"/videos/227325257";s:4:"name";s:43:"Wedlock Deadlock : GRAND PRIZE [NYFCS 2017]";s:11:"description";s:1064:"2017 #DTTW 
+GRAND PRIZE WINNER
+Screening at NY Film Critic Series
+
+Required Elements:
+Emotion : Madness
+Camera Technique : Dutch Angle
+Location: Heritage Square Park
+Prop / Dialogue : Blue Fork
+Synopsis: A seemingly perfect couple is not so perfect after all. In a quick bout of competitive-ness they learn...nothing.
+Credits:
+Director: Landon Barton
+Producers: Jake Fisher, Lindsay Eftink
+Editors: Jon Kline, Jake Fisher, Landon Barton
+Writers: Kaye Barton, Matt Brown, Jeff Brown, Renea Reasoner, Audrey Barba, Abby Smith, Lindsay Eftink, Briley Meek
+Director of Photography: Jake Fisher
+Cast: Briley Meek, Jeff Brown, Devin Brown, Renea Reasoner, Blake Overson
+Art: Devin Brown, Meg Stessman, Landon Barton
+Production: Audrey Barba, Blake Overson
+Music: Jeff Brown, Renea Reasoner
+Sound: Peter Smith, Jon Kline
+Co-Created by CreativeRush & Tallgrass Film Association. Presented by Fidelity Bank. Additional support comes from Squid Ink Creative, KMUW 89.1 Wichita Public Radio, KWCH Channel 12, Alt 1073, Patterson Legal Group, and the Wichita Carnegie Library.";s:4:"link";s:27:"https://vimeo.com/227325257";s:8:"duration";i:355;s:5:"width";i:1920;s:6:"height";i:1080;s:5:"embed";O:8:"stdClass":1:{s:4:"html";s:289:"<iframe src="https://player.vimeo.com/video/227325257?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0&app_id=27459" width="1920" height="1080" frameborder="0" title="Wedlock Deadlock : GRAND PRIZE [NYFCS 2017]" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>";}s:12:"created_time";s:25:"2017-07-27T21:05:33+00:00";s:8:"pictures";a:6:{i:0;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:1280;s:6:"height";i:720;s:4:"link";s:47:"https://i.vimeocdn.com/video/647128051_1280.jpg";}i:1;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:960;s:6:"height";i:540;s:4:"link";s:46:"https://i.vimeocdn.com/video/647128051_960.jpg";}i:2;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:640;s:6:"height";i:360;s:4:"link";s:46:"https://i.vimeocdn.com/video/647128051_640.jpg";}i:3;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:295;s:6:"height";i:166;s:4:"link";s:50:"https://i.vimeocdn.com/video/647128051_295x166.jpg";}i:4;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:200;s:6:"height";i:150;s:4:"link";s:50:"https://i.vimeocdn.com/video/647128051_200x150.jpg";}i:5;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:100;s:6:"height";i:75;s:4:"link";s:49:"https://i.vimeocdn.com/video/647128051_100x75.jpg";}}s:4:"tags";a:11:{i:0;O:8:"stdClass":1:{s:4:"name";s:4:"dttw";}i:1;O:8:"stdClass":1:{s:4:"name";s:8:"deadlock";}i:2;O:8:"stdClass":1:{s:4:"name";s:5:"nyfcs";}i:3;O:8:"stdClass":1:{s:4:"name";s:7:"wedlock";}i:4;O:8:"stdClass":1:{s:4:"name";s:9:"film race";}i:5;O:8:"stdClass":1:{s:4:"name";s:8:"festival";}i:6;O:8:"stdClass":1:{s:4:"name";s:16:"down to the wire";}i:7;O:8:"stdClass":1:{s:4:"name";s:4:"fest";}i:8;O:8:"stdClass":1:{s:4:"name";s:6:"kansas";}i:9;O:8:"stdClass":1:{s:4:"name";s:7:"wichita";}i:10;O:8:"stdClass":1:{s:4:"name";s:2:"24";}}s:5:"stats";O:8:"stdClass":3:{s:5:"plays";N;s:5:"likes";i:0;s:8:"comments";i:0;}s:6:"status";s:9:"available";}i:1;O:8:"stdClass":13:{s:3:"uri";s:17:"/videos/222328809";s:4:"name";s:33:"PLUVIOPHILE : Team 35 - 2nd Place";s:11:"description";s:1277:"2017 #DTTW : TOP 10
+2nd Place
+ 
+Required Elements:
+Emotion : Madness
+Camera Technique : Dutch Angle
+Location: Heritage Square Park
+Prop / Dialogue : Pristine Shadow
+ 
+Synopsis: A pharmaceutical company's decision results in a disastrous consequences for a select group of the population.
+ 
+Credits:
+Director/DP/Writer/Editor : Naythan Smith
+Assistant Director : Ryan Douglass
+Producer/Actor (VO Scientist) : Victoria Gayer
+Writer/1st AC/Visual Effects/Editor : Brayden Frazier
+Writer/Practical Effects : Aaron Radford
+Writer : Simon Sokerka
+Actor (Researcher) : Logan T. Buehler
+Actor (News Anchor) : Sommer Camp
+Actor (Michael) : Trevor Vincent Farney
+Actor (Devon) : Krista Nelson
+Colorist/Key Grip : Sam Schurter
+2nd Assistant Camera : Noah Castillo
+Sound Mixer/Boom Operator : Kyle Hayes
+Prop Master : John Doornbos
+Special Effects Makeup : Richard Hoffman
+Makeup : Malia Stevens Dodge
+Music : Night Geese
+Grips : EVERYONE
+Special Thanks : Fritz Robinson
+Special Thanks : Jonathan Sturdevant
+Special Thanks : Anna Disalvo
+
+Co-Created by CreativeRush & Tallgrass Film Association. Presented by Fidelity Bank. Additional support comes from Squid Ink Creative, KMUW 89.1 Wichita Public Radio, KWCH Channel 12, Alt 1073, Patterson Legal Group, and the Wichita Carnegie Library.";s:4:"link";s:27:"https://vimeo.com/222328809";s:8:"duration";i:299;s:5:"width";i:1920;s:6:"height";i:1080;s:5:"embed";O:8:"stdClass":1:{s:4:"html";s:279:"<iframe src="https://player.vimeo.com/video/222328809?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0&app_id=27459" width="1920" height="1080" frameborder="0" title="PLUVIOPHILE : Team 35 - 2nd Place" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>";}s:12:"created_time";s:25:"2017-06-20T09:48:57+00:00";s:8:"pictures";a:6:{i:0;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:1280;s:6:"height";i:720;s:4:"link";s:47:"https://i.vimeocdn.com/video/640833070_1280.jpg";}i:1;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:960;s:6:"height";i:540;s:4:"link";s:46:"https://i.vimeocdn.com/video/640833070_960.jpg";}i:2;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:640;s:6:"height";i:360;s:4:"link";s:46:"https://i.vimeocdn.com/video/640833070_640.jpg";}i:3;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:295;s:6:"height";i:166;s:4:"link";s:50:"https://i.vimeocdn.com/video/640833070_295x166.jpg";}i:4;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:200;s:6:"height";i:150;s:4:"link";s:50:"https://i.vimeocdn.com/video/640833070_200x150.jpg";}i:5;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:100;s:6:"height";i:75;s:4:"link";s:49:"https://i.vimeocdn.com/video/640833070_100x75.jpg";}}s:4:"tags";a:0:{}s:5:"stats";O:8:"stdClass":3:{s:5:"plays";N;s:5:"likes";i:1;s:8:"comments";i:0;}s:6:"status";s:9:"available";}i:2;O:8:"stdClass":13:{s:3:"uri";s:17:"/videos/222328359";s:4:"name";s:13:"WOW : Team 38";s:11:"description";s:697:"2017 #DTTW
+
+Student Team - (11 y/o - youngest racing team)
+Best Emerging Filmmaker Team
+ 
+Required Elements:
+Emotion : Madness
+Camera Technique : Dutch Angle
+Location: Heritage Square Park
+Prop / Dialogue : Adorable Spaghetti
+ 
+Synopsis: We discover that a veggie burger can be adorable spaghetti, and we have a crazy dream.
+ 
+Credits:
+Producer / Director: Jude Rogers
+Actors: Aiden Kinsch, George Ervin, Jude Rogers
+Writer / Editor: Jude Rogers
+
+Co-Created by CreativeRush & Tallgrass Film Association. Presented by Fidelity Bank. Additional support comes from Squid Ink Creative, KMUW 89.1 Wichita Public Radio, KWCH Channel 12, Alt 1073, Patterson Legal Group, and the Wichita Carnegie Library.";s:4:"link";s:27:"https://vimeo.com/222328359";s:8:"duration";i:125;s:5:"width";i:1920;s:6:"height";i:1080;s:5:"embed";O:8:"stdClass":1:{s:4:"html";s:259:"<iframe src="https://player.vimeo.com/video/222328359?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0&app_id=27459" width="1920" height="1080" frameborder="0" title="WOW : Team 38" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>";}s:12:"created_time";s:25:"2017-06-20T09:44:39+00:00";s:8:"pictures";a:6:{i:0;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:1280;s:6:"height";i:720;s:4:"link";s:47:"https://i.vimeocdn.com/video/640830973_1280.jpg";}i:1;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:960;s:6:"height";i:540;s:4:"link";s:46:"https://i.vimeocdn.com/video/640830973_960.jpg";}i:2;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:640;s:6:"height";i:360;s:4:"link";s:46:"https://i.vimeocdn.com/video/640830973_640.jpg";}i:3;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:295;s:6:"height";i:166;s:4:"link";s:50:"https://i.vimeocdn.com/video/640830973_295x166.jpg";}i:4;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:200;s:6:"height";i:150;s:4:"link";s:50:"https://i.vimeocdn.com/video/640830973_200x150.jpg";}i:5;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:100;s:6:"height";i:75;s:4:"link";s:49:"https://i.vimeocdn.com/video/640830973_100x75.jpg";}}s:4:"tags";a:0:{}s:5:"stats";O:8:"stdClass":3:{s:5:"plays";N;s:5:"likes";i:0;s:8:"comments";i:0;}s:6:"status";s:9:"available";}i:3;O:8:"stdClass":13:{s:3:"uri";s:17:"/videos/222326406";s:4:"name";s:18:"THE MARK : Team 34";s:11:"description";s:1111:"2017 #DTTW 
+ 
+Required Elements:
+Emotion : Fear
+Camera Technique : Dutch Angle
+Location: Heritage Square Park
+Prop / Dialogue : Flimsy Spaghetti
+ 
+Synopsis: A brother and sister learn an old threat has returned and they must find a way to defeat it for good, this time. 
+ 
+Credits:
+Director: Allan Saylor
+Producer: Greg Steinert
+Editor: James Renfroe
+Costumes: Tammy Stice
+Props: Tammy Stice
+Editor: Tammy Stice
+DP: Doug Stice
+Editor: Doug Stice
+Writer: James Wilson
+Assistant DP: James Wilson
+Writer: Chris Steinert
+Actor: Chris Steinert
+Title Card: Chris Steinert
+Script Supervisor: Chris Robertson
+Actor: Jessica Renfroe
+Actor: Delno Ebie
+Actor: Clinton Harris
+Costumes: Kimberly Hanke
+Props: Kimberly Hanke
+Craft Services: Rebecca Saylor
+Props: Rebecca Saylor
+Special Effects: Greg Steinert
+Craft Services: Roy Steinert
+Craft Services: Jeanette Steinert
+
+ 
+Co-Created by CreativeRush & Tallgrass Film Association. Presented by Fidelity Bank. Additional support comes from Squid Ink Creative, KMUW 89.1 Wichita Public Radio, KWCH Channel 12, Alt 1073, Patterson Legal Group, and the Wichita Carnegie Library.";s:4:"link";s:27:"https://vimeo.com/222326406";s:8:"duration";i:311;s:5:"width";i:1920;s:6:"height";i:1080;s:5:"embed";O:8:"stdClass":1:{s:4:"html";s:264:"<iframe src="https://player.vimeo.com/video/222326406?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0&app_id=27459" width="1920" height="1080" frameborder="0" title="THE MARK : Team 34" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>";}s:12:"created_time";s:25:"2017-06-20T09:25:28+00:00";s:8:"pictures";a:6:{i:0;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:1280;s:6:"height";i:720;s:4:"link";s:47:"https://i.vimeocdn.com/video/640830429_1280.jpg";}i:1;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:960;s:6:"height";i:540;s:4:"link";s:46:"https://i.vimeocdn.com/video/640830429_960.jpg";}i:2;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:640;s:6:"height";i:360;s:4:"link";s:46:"https://i.vimeocdn.com/video/640830429_640.jpg";}i:3;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:295;s:6:"height";i:166;s:4:"link";s:50:"https://i.vimeocdn.com/video/640830429_295x166.jpg";}i:4;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:200;s:6:"height";i:150;s:4:"link";s:50:"https://i.vimeocdn.com/video/640830429_200x150.jpg";}i:5;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:100;s:6:"height";i:75;s:4:"link";s:49:"https://i.vimeocdn.com/video/640830429_100x75.jpg";}}s:4:"tags";a:0:{}s:5:"stats";O:8:"stdClass":3:{s:5:"plays";N;s:5:"likes";i:1;s:8:"comments";i:0;}s:6:"status";s:9:"available";}i:4;O:8:"stdClass":13:{s:3:"uri";s:17:"/videos/222325113";s:4:"name";s:33:"FOR WHOM THE PAGE TURNS : Team 33";s:11:"description";s:479:"2017 #DTTW 
+Student Team
+ 
+Credits:
+Producer: Justin Bell
+Director: Amy Baber
+2. John Flores
+3. Joey Otey
+4. Gunnar Seal
+5. Calvin Inthanon
+6. Alyssa Reed
+7. Paityn Chambers
+8. Stephen Foster
+9. James Tarbox
+10. Hannah McDarty
+
+
+Co-Created by CreativeRush & Tallgrass Film Association. Presented by Fidelity Bank. Additional support comes from Squid Ink Creative, KMUW 89.1 Wichita Public Radio, KWCH Channel 12, Alt 1073, Patterson Legal Group, and the Wichita Carnegie Library.";s:4:"link";s:27:"https://vimeo.com/222325113";s:8:"duration";i:379;s:5:"width";i:1920;s:6:"height";i:1080;s:5:"embed";O:8:"stdClass":1:{s:4:"html";s:279:"<iframe src="https://player.vimeo.com/video/222325113?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0&app_id=27459" width="1920" height="1080" frameborder="0" title="FOR WHOM THE PAGE TURNS : Team 33" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>";}s:12:"created_time";s:25:"2017-06-20T09:12:59+00:00";s:8:"pictures";a:6:{i:0;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:1280;s:6:"height";i:720;s:4:"link";s:47:"https://i.vimeocdn.com/video/641217591_1280.jpg";}i:1;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:960;s:6:"height";i:540;s:4:"link";s:46:"https://i.vimeocdn.com/video/641217591_960.jpg";}i:2;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:640;s:6:"height";i:360;s:4:"link";s:46:"https://i.vimeocdn.com/video/641217591_640.jpg";}i:3;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:295;s:6:"height";i:166;s:4:"link";s:50:"https://i.vimeocdn.com/video/641217591_295x166.jpg";}i:4;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:200;s:6:"height";i:150;s:4:"link";s:50:"https://i.vimeocdn.com/video/641217591_200x150.jpg";}i:5;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:100;s:6:"height";i:75;s:4:"link";s:49:"https://i.vimeocdn.com/video/641217591_100x75.jpg";}}s:4:"tags";a:0:{}s:5:"stats";O:8:"stdClass":3:{s:5:"plays";N;s:5:"likes";i:0;s:8:"comments";i:0;}s:6:"status";s:9:"available";}i:5;O:8:"stdClass":13:{s:3:"uri";s:17:"/videos/222322412";s:4:"name";s:26:"THE LADY HAS YES : Team 30";s:11:"description";s:619:"2017 #DTTW 
+Best Production Design
+ 
+Required Elements:
+Emotion : Confidence
+Camera Technique : Dutch Angle
+Location: Heritage Square Park
+Prop / Dialogue : Flimsy Feet
+ 
+Synopsis: A party girl obsessed with beauty goes to extreme measures to produce the most glamorous boa the world has ever seen. 
+ 
+Credits:
+Director: Linnebur & Miller
+Producer: Linnebur & Miller
+
+
+Co-Created by CreativeRush & Tallgrass Film Association. Presented by Fidelity Bank. Additional support comes from Squid Ink Creative, KMUW 89.1 Wichita Public Radio, KWCH Channel 12, Alt 1073, Patterson Legal Group, and the Wichita Carnegie Library.";s:4:"link";s:27:"https://vimeo.com/222322412";s:8:"duration";i:380;s:5:"width";i:1920;s:6:"height";i:1080;s:5:"embed";O:8:"stdClass":1:{s:4:"html";s:272:"<iframe src="https://player.vimeo.com/video/222322412?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0&app_id=27459" width="1920" height="1080" frameborder="0" title="THE LADY HAS YES : Team 30" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>";}s:12:"created_time";s:25:"2017-06-20T08:48:03+00:00";s:8:"pictures";a:6:{i:0;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:1280;s:6:"height";i:720;s:4:"link";s:47:"https://i.vimeocdn.com/video/641217470_1280.jpg";}i:1;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:960;s:6:"height";i:540;s:4:"link";s:46:"https://i.vimeocdn.com/video/641217470_960.jpg";}i:2;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:640;s:6:"height";i:360;s:4:"link";s:46:"https://i.vimeocdn.com/video/641217470_640.jpg";}i:3;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:295;s:6:"height";i:166;s:4:"link";s:50:"https://i.vimeocdn.com/video/641217470_295x166.jpg";}i:4;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:200;s:6:"height";i:150;s:4:"link";s:50:"https://i.vimeocdn.com/video/641217470_200x150.jpg";}i:5;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:100;s:6:"height";i:75;s:4:"link";s:49:"https://i.vimeocdn.com/video/641217470_100x75.jpg";}}s:4:"tags";a:0:{}s:5:"stats";O:8:"stdClass":3:{s:5:"plays";N;s:5:"likes";i:0;s:8:"comments";i:0;}s:6:"status";s:9:"available";}i:6;O:8:"stdClass":13:{s:3:"uri";s:17:"/videos/222315038";s:4:"name";s:20:"TELEVISION : Team 29";s:11:"description";s:655:"2017 #DTTW 
+ 
+Required Elements:
+Emotion : Madness
+Camera Technique : Dutch Angle
+Location: Heritage Square Park
+Prop / Dialogue : Flimsy Feet
+ 
+Synopsis: A brother and sister learn an old threat has returned and they must find a way to defeat it for good, this time. 
+ 
+Credits:
+Director: Kenneth Bradburn
+Producer: Kenneth Bradburn
+Actors: Cale Martin, Kenneth Bradburn, Emily Mudra, Lauren Johnson
+ 
+ 
+Co-Created by CreativeRush & Tallgrass Film Association. Presented by Fidelity Bank. Additional support comes from Squid Ink Creative, KMUW 89.1 Wichita Public Radio, KWCH Channel 12, Alt 1073, Patterson Legal Group, and the Wichita Carnegie Library.";s:4:"link";s:27:"https://vimeo.com/222315038";s:8:"duration";i:328;s:5:"width";i:1920;s:6:"height";i:1080;s:5:"embed";O:8:"stdClass":1:{s:4:"html";s:266:"<iframe src="https://player.vimeo.com/video/222315038?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0&app_id=27459" width="1920" height="1080" frameborder="0" title="TELEVISION : Team 29" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>";}s:12:"created_time";s:25:"2017-06-20T07:33:59+00:00";s:8:"pictures";a:6:{i:0;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:1280;s:6:"height";i:720;s:4:"link";s:47:"https://i.vimeocdn.com/video/641217766_1280.jpg";}i:1;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:960;s:6:"height";i:540;s:4:"link";s:46:"https://i.vimeocdn.com/video/641217766_960.jpg";}i:2;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:640;s:6:"height";i:360;s:4:"link";s:46:"https://i.vimeocdn.com/video/641217766_640.jpg";}i:3;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:295;s:6:"height";i:166;s:4:"link";s:50:"https://i.vimeocdn.com/video/641217766_295x166.jpg";}i:4;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:200;s:6:"height";i:150;s:4:"link";s:50:"https://i.vimeocdn.com/video/641217766_200x150.jpg";}i:5;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:100;s:6:"height";i:75;s:4:"link";s:49:"https://i.vimeocdn.com/video/641217766_100x75.jpg";}}s:4:"tags";a:0:{}s:5:"stats";O:8:"stdClass":3:{s:5:"plays";N;s:5:"likes";i:0;s:8:"comments";i:0;}s:6:"status";s:9:"available";}i:7;O:8:"stdClass":13:{s:3:"uri";s:17:"/videos/222313786";s:4:"name";s:20:"FIELD TRIP : Team 28";s:11:"description";s:1073:"2017 #DTTW 
+Best Cinematography
+
+Required Elements:
+Emotion : Sadness
+Camera Technique : Dutch Angle
+Location: Heritage Square Park
+Prop / Dialogue : Adorable Feet
+
+Synopsis: Three anthropology students from "another world" spend the day observing the behaviors of modern life for a class assignment.
+
+Credits:
+Director: Ellen Crispin
+Producer: Ellen Crispin
+Editor: Ellen Crispin
+Writer: Ellen Crispin
+Costumes & Styling: Brit Elliot
+Music: Kristyn Chapman
+Assistant Producer: Jordan Kirtley
+Assistant Editor: Adam Crispin
+Starring: Teresa Nguyen
+Starring: Brit Elliot
+Starring: Jordan Kirtley
+Supporting: Marc Durfee
+Supporting: Helen Cruz
+Supporting: Enoch Jennison
+Supporting: Zach Alvarez
+Supporting: Adam Crispin
+Supporting: Ryan Stoldt
+Extra: Jeni Doom
+Extra: Amanda Casey
+Extra: Wyatt Sheeder
+Extra: Matt Campbell
+
+Co-Created by CreativeRush & Tallgrass Film Association. Presented by Fidelity Bank. Additional support comes from Squid Ink Creative, KMUW 89.1 Wichita Public Radio, KWCH Channel 12, Alt 1073, Patterson Legal Group, and the Wichita Carnegie Library.";s:4:"link";s:27:"https://vimeo.com/222313786";s:8:"duration";i:281;s:5:"width";i:1920;s:6:"height";i:1080;s:5:"embed";O:8:"stdClass":1:{s:4:"html";s:266:"<iframe src="https://player.vimeo.com/video/222313786?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0&app_id=27459" width="1920" height="1080" frameborder="0" title="FIELD TRIP : Team 28" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>";}s:12:"created_time";s:25:"2017-06-20T07:18:25+00:00";s:8:"pictures";a:6:{i:0;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:1280;s:6:"height";i:720;s:4:"link";s:47:"https://i.vimeocdn.com/video/640813673_1280.jpg";}i:1;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:960;s:6:"height";i:540;s:4:"link";s:46:"https://i.vimeocdn.com/video/640813673_960.jpg";}i:2;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:640;s:6:"height";i:360;s:4:"link";s:46:"https://i.vimeocdn.com/video/640813673_640.jpg";}i:3;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:295;s:6:"height";i:166;s:4:"link";s:50:"https://i.vimeocdn.com/video/640813673_295x166.jpg";}i:4;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:200;s:6:"height";i:150;s:4:"link";s:50:"https://i.vimeocdn.com/video/640813673_200x150.jpg";}i:5;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:100;s:6:"height";i:75;s:4:"link";s:49:"https://i.vimeocdn.com/video/640813673_100x75.jpg";}}s:4:"tags";a:0:{}s:5:"stats";O:8:"stdClass":3:{s:5:"plays";N;s:5:"likes";i:0;s:8:"comments";i:0;}s:6:"status";s:9:"available";}i:8;O:8:"stdClass":13:{s:3:"uri";s:17:"/videos/222312875";s:4:"name";s:28:"WONDERS OF WICHITA : Team 27";s:11:"description";s:530:"2017 #DTTW 
+GRAND PRIZE WINNER
+
+Required Elements:
+Emotion : 
+Camera Technique : Dutch Angle
+Location: Heritage Square Park
+Prop / Dialogue : Colossal Bicycle
+
+
+Credits:
+Director: Alex Wilson
+Producer: Dylan Doyle
+DJ: Cole Krueger
+Sound Guy: Andrew Shipman
+Guest Star: Mark Kane
+
+Co-Created by CreativeRush & Tallgrass Film Association. Presented by Fidelity Bank. Additional support comes from Squid Ink Creative, KMUW 89.1 Wichita Public Radio, KWCH Channel 12, Alt 1073, Patterson Legal Group, and the Wichita Carnegie Library.";s:4:"link";s:27:"https://vimeo.com/222312875";s:8:"duration";i:344;s:5:"width";i:1920;s:6:"height";i:1080;s:5:"embed";O:8:"stdClass":1:{s:4:"html";s:274:"<iframe src="https://player.vimeo.com/video/222312875?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0&app_id=27459" width="1920" height="1080" frameborder="0" title="WONDERS OF WICHITA : Team 27" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>";}s:12:"created_time";s:25:"2017-06-20T07:07:09+00:00";s:8:"pictures";a:6:{i:0;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:1280;s:6:"height";i:720;s:4:"link";s:47:"https://i.vimeocdn.com/video/640812099_1280.jpg";}i:1;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:960;s:6:"height";i:540;s:4:"link";s:46:"https://i.vimeocdn.com/video/640812099_960.jpg";}i:2;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:640;s:6:"height";i:360;s:4:"link";s:46:"https://i.vimeocdn.com/video/640812099_640.jpg";}i:3;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:295;s:6:"height";i:166;s:4:"link";s:50:"https://i.vimeocdn.com/video/640812099_295x166.jpg";}i:4;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:200;s:6:"height";i:150;s:4:"link";s:50:"https://i.vimeocdn.com/video/640812099_200x150.jpg";}i:5;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:100;s:6:"height";i:75;s:4:"link";s:49:"https://i.vimeocdn.com/video/640812099_100x75.jpg";}}s:4:"tags";a:0:{}s:5:"stats";O:8:"stdClass":3:{s:5:"plays";N;s:5:"likes";i:0;s:8:"comments";i:0;}s:6:"status";s:9:"available";}i:9;O:8:"stdClass":13:{s:3:"uri";s:17:"/videos/222310534";s:4:"name";s:18:"NO HONOR : Team 20";s:11:"description";s:536:"2017 #DTTW 
+
+Required Elements:
+Emotion : 
+Camera Technique : Dutch Angle
+Location: Heritage Square Park
+Prop / Dialogue : Critical Chair
+
+Synopsis: Two crews get upended by the unlikeliest people.
+
+Credits:
+Producer: Jesse E. Bailey II
+Director: Kris Haskin
+Actress: Shaelynn French
+
+
+Co-Created by CreativeRush & Tallgrass Film Association. Presented by Fidelity Bank. Additional support comes from Squid Ink Creative, KMUW 89.1 Wichita Public Radio, KWCH Channel 12, Alt 1073, Patterson Legal Group, and the Wichita Carnegie Library.";s:4:"link";s:27:"https://vimeo.com/222310534";s:8:"duration";i:372;s:5:"width";i:1920;s:6:"height";i:1080;s:5:"embed";O:8:"stdClass":1:{s:4:"html";s:264:"<iframe src="https://player.vimeo.com/video/222310534?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0&app_id=27459" width="1920" height="1080" frameborder="0" title="NO HONOR : Team 20" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>";}s:12:"created_time";s:25:"2017-06-20T06:35:30+00:00";s:8:"pictures";a:6:{i:0;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:1280;s:6:"height";i:720;s:4:"link";s:47:"https://i.vimeocdn.com/video/640809768_1280.jpg";}i:1;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:960;s:6:"height";i:540;s:4:"link";s:46:"https://i.vimeocdn.com/video/640809768_960.jpg";}i:2;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:640;s:6:"height";i:360;s:4:"link";s:46:"https://i.vimeocdn.com/video/640809768_640.jpg";}i:3;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:295;s:6:"height";i:166;s:4:"link";s:50:"https://i.vimeocdn.com/video/640809768_295x166.jpg";}i:4;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:200;s:6:"height";i:150;s:4:"link";s:50:"https://i.vimeocdn.com/video/640809768_200x150.jpg";}i:5;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:100;s:6:"height";i:75;s:4:"link";s:49:"https://i.vimeocdn.com/video/640809768_100x75.jpg";}}s:4:"tags";a:0:{}s:5:"stats";O:8:"stdClass":3:{s:5:"plays";N;s:5:"likes";i:0;s:8:"comments";i:0;}s:6:"status";s:9:"available";}i:10;O:8:"stdClass":13:{s:3:"uri";s:17:"/videos/222308055";s:4:"name";s:26:"PREHISTORIC PALS : Team 19";s:11:"description";s:502:"2017 #DTTW 
+
+Required Elements:
+Emotion : 
+Camera Technique : Dutch Angle
+Location: Heritage Square Park
+Prop / Dialogue : 
+
+
+Credits:
+1. Spencer Steinert 
+2. Jared Goering 
+3. Scott Steinert 
+4. Simon Steinert 
+5. Silas Steinert 
+6. Shasta Steinert
+
+
+Co-Created by CreativeRush & Tallgrass Film Association. Presented by Fidelity Bank. Additional support comes from Squid Ink Creative, KMUW 89.1 Wichita Public Radio, KWCH Channel 12, Alt 1073, Patterson Legal Group, and the Wichita Carnegie Library.";s:4:"link";s:27:"https://vimeo.com/222308055";s:8:"duration";i:367;s:5:"width";i:1920;s:6:"height";i:1080;s:5:"embed";O:8:"stdClass":1:{s:4:"html";s:272:"<iframe src="https://player.vimeo.com/video/222308055?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0&app_id=27459" width="1920" height="1080" frameborder="0" title="PREHISTORIC PALS : Team 19" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>";}s:12:"created_time";s:25:"2017-06-20T05:56:23+00:00";s:8:"pictures";a:6:{i:0;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:1280;s:6:"height";i:720;s:4:"link";s:47:"https://i.vimeocdn.com/video/640808044_1280.jpg";}i:1;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:960;s:6:"height";i:540;s:4:"link";s:46:"https://i.vimeocdn.com/video/640808044_960.jpg";}i:2;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:640;s:6:"height";i:360;s:4:"link";s:46:"https://i.vimeocdn.com/video/640808044_640.jpg";}i:3;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:295;s:6:"height";i:166;s:4:"link";s:50:"https://i.vimeocdn.com/video/640808044_295x166.jpg";}i:4;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:200;s:6:"height";i:150;s:4:"link";s:50:"https://i.vimeocdn.com/video/640808044_200x150.jpg";}i:5;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:100;s:6:"height";i:75;s:4:"link";s:49:"https://i.vimeocdn.com/video/640808044_100x75.jpg";}}s:4:"tags";a:0:{}s:5:"stats";O:8:"stdClass":3:{s:5:"plays";N;s:5:"likes";i:1;s:8:"comments";i:0;}s:6:"status";s:9:"available";}i:11;O:8:"stdClass":13:{s:3:"uri";s:17:"/videos/222306846";s:4:"name";s:22:"PROSE & CONS : Team 18";s:11:"description";s:960:"2017 #DTTW 
+
+Required Elements:
+Emotion : Madness
+Camera Technique : Dutch Angle
+Location: Heritage Square Park
+Prop / Dialogue : Lucky Bicycle
+
+Synopsis: Two guys stumble upon a body in the park. One believes to know what happened to the body, the other guy is curious to see where his friend's story goes. 
+
+
+Credits:
+Director: Daniel Polidoro
+Writer: Matthew Pacholski
+Producer: Tyler Pacholski 
+Cast: Tyler Pacholski (Ben)
+Adrian Kinney (Ben's Friend)
+Matthew Pacholski (Jefe)
+Miles Foley (The Body)
+Director of Photography: Ashton Pacholski & Daniel Polidoro
+Sound Engineer: Adrian Kinney
+Editors: Daniel Polidoro, Adrian Kinney, Ashton Pacholski
+Make-up Artist: Kira Ottaway
+Music Composer: Mark Foley
+
+
+Co-Created by CreativeRush & Tallgrass Film Association. Presented by Fidelity Bank. Additional support comes from Squid Ink Creative, KMUW 89.1 Wichita Public Radio, KWCH Channel 12, Alt 1073, Patterson Legal Group, and the Wichita Carnegie Library.";s:4:"link";s:27:"https://vimeo.com/222306846";s:8:"duration";i:282;s:5:"width";i:1920;s:6:"height";i:1080;s:5:"embed";O:8:"stdClass":1:{s:4:"html";s:272:"<iframe src="https://player.vimeo.com/video/222306846?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0&app_id=27459" width="1920" height="1080" frameborder="0" title="PROSE &amp; CONS : Team 18" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>";}s:12:"created_time";s:25:"2017-06-20T05:36:47+00:00";s:8:"pictures";a:6:{i:0;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:1280;s:6:"height";i:720;s:4:"link";s:47:"https://i.vimeocdn.com/video/640804899_1280.jpg";}i:1;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:960;s:6:"height";i:540;s:4:"link";s:46:"https://i.vimeocdn.com/video/640804899_960.jpg";}i:2;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:640;s:6:"height";i:360;s:4:"link";s:46:"https://i.vimeocdn.com/video/640804899_640.jpg";}i:3;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:295;s:6:"height";i:166;s:4:"link";s:50:"https://i.vimeocdn.com/video/640804899_295x166.jpg";}i:4;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:200;s:6:"height";i:150;s:4:"link";s:50:"https://i.vimeocdn.com/video/640804899_200x150.jpg";}i:5;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:100;s:6:"height";i:75;s:4:"link";s:49:"https://i.vimeocdn.com/video/640804899_100x75.jpg";}}s:4:"tags";a:0:{}s:5:"stats";O:8:"stdClass":3:{s:5:"plays";N;s:5:"likes";i:1;s:8:"comments";i:0;}s:6:"status";s:9:"available";}i:12;O:8:"stdClass":13:{s:3:"uri";s:17:"/videos/222306638";s:4:"name";s:24:"PETTY VENDETTA : Team 17";s:11:"description";s:707:"2017 #DTTW 
+
+Required Elements:
+Emotion : Fear
+Camera Technique : Dutch Angle
+Location: Heritage Square Park
+Prop / Dialogue : Bite-Sized Chair
+
+Synopsis: When a young man stumbles upon a pair of very eccentric internet vloggers, he finds his life turned upside down and his pastries "tainted". Petty Vendetta is a story of sabotage, rivalry, recreational footwear and modern social media obsession. 
+
+Credits:
+Director: Ian Blume 
+Producer: Byron J. Love
+
+Co-Created by CreativeRush & Tallgrass Film Association. Presented by Fidelity Bank. Additional support comes from Squid Ink Creative, KMUW 89.1 Wichita Public Radio, KWCH Channel 12, Alt 1073, Patterson Legal Group, and the Wichita Carnegie Library.";s:4:"link";s:27:"https://vimeo.com/222306638";s:8:"duration";i:365;s:5:"width";i:1920;s:6:"height";i:1080;s:5:"embed";O:8:"stdClass":1:{s:4:"html";s:270:"<iframe src="https://player.vimeo.com/video/222306638?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0&app_id=27459" width="1920" height="1080" frameborder="0" title="PETTY VENDETTA : Team 17" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>";}s:12:"created_time";s:25:"2017-06-20T05:33:53+00:00";s:8:"pictures";a:6:{i:0;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:1280;s:6:"height";i:720;s:4:"link";s:47:"https://i.vimeocdn.com/video/640822313_1280.jpg";}i:1;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:960;s:6:"height";i:540;s:4:"link";s:46:"https://i.vimeocdn.com/video/640822313_960.jpg";}i:2;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:640;s:6:"height";i:360;s:4:"link";s:46:"https://i.vimeocdn.com/video/640822313_640.jpg";}i:3;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:295;s:6:"height";i:166;s:4:"link";s:50:"https://i.vimeocdn.com/video/640822313_295x166.jpg";}i:4;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:200;s:6:"height";i:150;s:4:"link";s:50:"https://i.vimeocdn.com/video/640822313_200x150.jpg";}i:5;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:100;s:6:"height";i:75;s:4:"link";s:49:"https://i.vimeocdn.com/video/640822313_100x75.jpg";}}s:4:"tags";a:0:{}s:5:"stats";O:8:"stdClass":3:{s:5:"plays";N;s:5:"likes";i:1;s:8:"comments";i:0;}s:6:"status";s:9:"available";}i:13;O:8:"stdClass":13:{s:3:"uri";s:17:"/videos/222305763";s:4:"name";s:34:"A PRODUCT FOR THE PEOPLE : Team 16";s:11:"description";s:562:"2017 #DTTW 
+
+Required Elements:
+Emotion : 
+Camera Technique : Dutch Angle
+Location: Heritage Square Park
+Prop / Dialogue : Flimsey Shadow
+
+Synopsis: A focus group and free samples might be more sinister than it seems.
+
+Credits:
+Producer: Monica Biltz
+Director: Maria Biltz
+Writer: Jeremy Biltz
+DP: James Rhiley
+
+Co-Created by CreativeRush & Tallgrass Film Association. Presented by Fidelity Bank. Additional support comes from Squid Ink Creative, KMUW 89.1 Wichita Public Radio, KWCH Channel 12, Alt 1073, Patterson Legal Group, and the Wichita Carnegie Library.";s:4:"link";s:27:"https://vimeo.com/222305763";s:8:"duration";i:380;s:5:"width";i:1920;s:6:"height";i:1080;s:5:"embed";O:8:"stdClass":1:{s:4:"html";s:280:"<iframe src="https://player.vimeo.com/video/222305763?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0&app_id=27459" width="1920" height="1080" frameborder="0" title="A PRODUCT FOR THE PEOPLE : Team 16" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>";}s:12:"created_time";s:25:"2017-06-20T05:20:18+00:00";s:8:"pictures";a:6:{i:0;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:1280;s:6:"height";i:720;s:4:"link";s:47:"https://i.vimeocdn.com/video/640803055_1280.jpg";}i:1;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:960;s:6:"height";i:540;s:4:"link";s:46:"https://i.vimeocdn.com/video/640803055_960.jpg";}i:2;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:640;s:6:"height";i:360;s:4:"link";s:46:"https://i.vimeocdn.com/video/640803055_640.jpg";}i:3;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:295;s:6:"height";i:166;s:4:"link";s:50:"https://i.vimeocdn.com/video/640803055_295x166.jpg";}i:4;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:200;s:6:"height";i:150;s:4:"link";s:50:"https://i.vimeocdn.com/video/640803055_200x150.jpg";}i:5;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:100;s:6:"height";i:75;s:4:"link";s:49:"https://i.vimeocdn.com/video/640803055_100x75.jpg";}}s:4:"tags";a:0:{}s:5:"stats";O:8:"stdClass":3:{s:5:"plays";N;s:5:"likes";i:0;s:8:"comments";i:0;}s:6:"status";s:9:"available";}i:14;O:8:"stdClass":13:{s:3:"uri";s:17:"/videos/222305002";s:4:"name";s:29:"DON'T FEAR THE REPO : Team 15";s:11:"description";s:302:"2017 #DTTW
+Student Team
+
+Required Elements:
+Emotion : 
+Camera Technique : Dutch Angle
+Location: Heritage Square Park
+Prop / Dialogue :  
+
+Credits:
+Proudcuer & Director: Travis McCarty 
+2. Stylan Roberts 
+3. Easton Thompson 
+4. Sam McFarland
+5. Austin Bosgraaf 
+6. Karly Winegarner 
+7. Kjersten Anderson";s:4:"link";s:27:"https://vimeo.com/222305002";s:8:"duration";i:351;s:5:"width";i:1920;s:6:"height";i:1080;s:5:"embed";O:8:"stdClass":1:{s:4:"html";s:280:"<iframe src="https://player.vimeo.com/video/222305002?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0&app_id=27459" width="1920" height="1080" frameborder="0" title="DON&#039;T FEAR THE REPO : Team 15" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>";}s:12:"created_time";s:25:"2017-06-20T05:08:27+00:00";s:8:"pictures";a:6:{i:0;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:1280;s:6:"height";i:720;s:4:"link";s:47:"https://i.vimeocdn.com/video/640801894_1280.jpg";}i:1;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:960;s:6:"height";i:540;s:4:"link";s:46:"https://i.vimeocdn.com/video/640801894_960.jpg";}i:2;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:640;s:6:"height";i:360;s:4:"link";s:46:"https://i.vimeocdn.com/video/640801894_640.jpg";}i:3;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:295;s:6:"height";i:166;s:4:"link";s:50:"https://i.vimeocdn.com/video/640801894_295x166.jpg";}i:4;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:200;s:6:"height";i:150;s:4:"link";s:50:"https://i.vimeocdn.com/video/640801894_200x150.jpg";}i:5;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:100;s:6:"height";i:75;s:4:"link";s:49:"https://i.vimeocdn.com/video/640801894_100x75.jpg";}}s:4:"tags";a:0:{}s:5:"stats";O:8:"stdClass":3:{s:5:"plays";N;s:5:"likes";i:0;s:8:"comments";i:0;}s:6:"status";s:9:"available";}i:15;O:8:"stdClass":13:{s:3:"uri";s:17:"/videos/222287809";s:4:"name";s:23:"STUCK ON CHEW : Team 14";s:11:"description";s:665:"2017 #DTTW 
+Student Team
+
+Required Elements:
+Emotion : Confidence
+Camera Technique : Dutch Angle
+Location: Heritage Square Park
+Prop / Dialogue : Critical Feet
+
+
+Credits:
+1. Jordan Horsch 
+2. Joey Thiel 
+3. Zachary Hudson 
+3. Alexis Cruz 
+4. Nathan Light 
+5. Andrew Smith 
+6. Eric Pham 
+7. McKenzey Bell 
+8. Joey Ralph 
+9. Kailey Lohrman 
+10. Brent Martin 
+11. Gavin Vindici 
+12. Kristen Culley 
+13. David Holland
+
+Co-Created by CreativeRush & Tallgrass Film Association. Presented by Fidelity Bank. Additional support comes from Squid Ink Creative, KMUW 89.1 Wichita Public Radio, KWCH Channel 12, Alt 1073, Patterson Legal Group, and the Wichita Carnegie Library.";s:4:"link";s:27:"https://vimeo.com/222287809";s:8:"duration";i:305;s:5:"width";i:1920;s:6:"height";i:1080;s:5:"embed";O:8:"stdClass":1:{s:4:"html";s:269:"<iframe src="https://player.vimeo.com/video/222287809?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0&app_id=27459" width="1920" height="1080" frameborder="0" title="STUCK ON CHEW : Team 14" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>";}s:12:"created_time";s:25:"2017-06-20T01:15:41+00:00";s:8:"pictures";a:6:{i:0;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:1280;s:6:"height";i:720;s:4:"link";s:47:"https://i.vimeocdn.com/video/640808959_1280.jpg";}i:1;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:960;s:6:"height";i:540;s:4:"link";s:46:"https://i.vimeocdn.com/video/640808959_960.jpg";}i:2;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:640;s:6:"height";i:360;s:4:"link";s:46:"https://i.vimeocdn.com/video/640808959_640.jpg";}i:3;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:295;s:6:"height";i:166;s:4:"link";s:50:"https://i.vimeocdn.com/video/640808959_295x166.jpg";}i:4;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:200;s:6:"height";i:150;s:4:"link";s:50:"https://i.vimeocdn.com/video/640808959_200x150.jpg";}i:5;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:100;s:6:"height";i:75;s:4:"link";s:49:"https://i.vimeocdn.com/video/640808959_100x75.jpg";}}s:4:"tags";a:0:{}s:5:"stats";O:8:"stdClass":3:{s:5:"plays";N;s:5:"likes";i:0;s:8:"comments";i:0;}s:6:"status";s:9:"available";}i:16;O:8:"stdClass":13:{s:3:"uri";s:17:"/videos/222286474";s:4:"name";s:31:"CHARLIE AND CHRISTINA : Team 12";s:11:"description";s:832:"2017 #DTTW 
+Student Team
+
+Required Elements:
+Emotion : Sadness
+Camera Technique : Dutch Angle
+Location: Heritage Square Park
+Prop / Dialogue : Pristine Grass
+
+Synopsis: The life of a squirrel named Charlie is turned upside down when his girlfriend Christina leaves him for a banana. 
+
+Credits:
+Directors: Sam Blaufuss and Jordan Singh
+Producer: Quinn Rhodes
+Editors: Sam Blaufuss and Jordan Singh
+Sound: Brandon Murrell
+Charlie: Sam Blaufuss
+Alan: Max Karst
+Christina: Cammy Claassan
+Gun Lady: Quinn Rhodes
+Kind Stranger: Kate Sebes
+PAs: Rebekah Nelson, Kate Sebes, Kate Zsambecki
+
+Co-Created by CreativeRush & Tallgrass Film Association. Presented by Fidelity Bank. Additional support comes from Squid Ink Creative, KMUW 89.1 Wichita Public Radio, KWCH Channel 12, Alt 1073, Patterson Legal Group, and the Wichita Carnegie Library.";s:4:"link";s:27:"https://vimeo.com/222286474";s:8:"duration";i:356;s:5:"width";i:1920;s:6:"height";i:1080;s:5:"embed";O:8:"stdClass":1:{s:4:"html";s:277:"<iframe src="https://player.vimeo.com/video/222286474?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0&app_id=27459" width="1920" height="1080" frameborder="0" title="CHARLIE AND CHRISTINA : Team 12" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>";}s:12:"created_time";s:25:"2017-06-20T01:01:45+00:00";s:8:"pictures";a:6:{i:0;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:1280;s:6:"height";i:720;s:4:"link";s:47:"https://i.vimeocdn.com/video/640778607_1280.jpg";}i:1;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:960;s:6:"height";i:540;s:4:"link";s:46:"https://i.vimeocdn.com/video/640778607_960.jpg";}i:2;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:640;s:6:"height";i:360;s:4:"link";s:46:"https://i.vimeocdn.com/video/640778607_640.jpg";}i:3;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:295;s:6:"height";i:166;s:4:"link";s:50:"https://i.vimeocdn.com/video/640778607_295x166.jpg";}i:4;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:200;s:6:"height";i:150;s:4:"link";s:50:"https://i.vimeocdn.com/video/640778607_200x150.jpg";}i:5;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:100;s:6:"height";i:75;s:4:"link";s:49:"https://i.vimeocdn.com/video/640778607_100x75.jpg";}}s:4:"tags";a:0:{}s:5:"stats";O:8:"stdClass":3:{s:5:"plays";N;s:5:"likes";i:1;s:8:"comments";i:0;}s:6:"status";s:9:"available";}i:17;O:8:"stdClass":13:{s:3:"uri";s:17:"/videos/222282948";s:4:"name";s:22:"JUST BREATHE : Team 09";s:11:"description";s:867:"2017 #DTTW 
+Student Team
+
+Required Elements:
+Emotion : Confidence
+Camera Technique : Dutch Angle
+Location: Heritage Square Park
+Prop / Dialogue : Colossal Bicycle
+
+Synopsis: Bride gets amnesia before her wedding and goes through the four wedding pillars to remember her big day.
+
+Credits:
+Director: Kenzie Borland
+Producer: Landon Volkmann
+Crew: Caroline Ragatz
+Crew: Mary Kate Cundiff
+Crew: Bailey Tredway
+Crew: Alex Steinert
+Crew: Ella Dominguez
+Crew: Kara Kellogg
+Actor: Caroline Cundiff
+Actor: Roo Rusk
+Actor: Jack Kellogg
+Actor: Solomon Dold
+Actor: Gavin Meyers
+Composer: Blaine Martin
+Composer: Brady Volkmann
+
+Co-Created by CreativeRush & Tallgrass Film Association. Presented by Fidelity Bank. Additional support comes from Squid Ink Creative, KMUW 89.1 Wichita Public Radio, KWCH Channel 12, Alt 1073, Patterson Legal Group, and the Wichita Carnegie Library.";s:4:"link";s:27:"https://vimeo.com/222282948";s:8:"duration";i:359;s:5:"width";i:1920;s:6:"height";i:1080;s:5:"embed";O:8:"stdClass":1:{s:4:"html";s:268:"<iframe src="https://player.vimeo.com/video/222282948?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0&app_id=27459" width="1920" height="1080" frameborder="0" title="JUST BREATHE : Team 09" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>";}s:12:"created_time";s:25:"2017-06-20T00:21:37+00:00";s:8:"pictures";a:6:{i:0;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:1280;s:6:"height";i:720;s:4:"link";s:47:"https://i.vimeocdn.com/video/640776865_1280.jpg";}i:1;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:960;s:6:"height";i:540;s:4:"link";s:46:"https://i.vimeocdn.com/video/640776865_960.jpg";}i:2;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:640;s:6:"height";i:360;s:4:"link";s:46:"https://i.vimeocdn.com/video/640776865_640.jpg";}i:3;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:295;s:6:"height";i:166;s:4:"link";s:50:"https://i.vimeocdn.com/video/640776865_295x166.jpg";}i:4;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:200;s:6:"height";i:150;s:4:"link";s:50:"https://i.vimeocdn.com/video/640776865_200x150.jpg";}i:5;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:100;s:6:"height";i:75;s:4:"link";s:49:"https://i.vimeocdn.com/video/640776865_100x75.jpg";}}s:4:"tags";a:0:{}s:5:"stats";O:8:"stdClass":3:{s:5:"plays";N;s:5:"likes";i:0;s:8:"comments";i:0;}s:6:"status";s:9:"available";}i:18;O:8:"stdClass":13:{s:3:"uri";s:17:"/videos/222281042";s:4:"name";s:23:"I'VE GOT THIS : Team 06";s:11:"description";s:774:"2017 #DTTW 
+
+Required Elements:
+Emotion : Sadness
+Camera Technique : Dutch Angle
+Location: Heritage Square Park
+Prop / Dialogue : Colossal Fork
+
+Synopsis: Four women dealing with trials in the workforce through the 50's, 70's, and today.
+
+Credits:
+Producer/Editor: Ashley Lundblade
+Director: Andrea Lee
+Director of Photography: Andy Schepis McGinnis
+Production Assistant: Sara Joy Harmon
+Scene Writer: Lisa Sillaway Henshall
+Original Music: Lacey Cruse
+Starring: Jo Anne Lofland, Andrea Lee, Micky Maddux, Ashley Lundblade
+
+Co-Created by CreativeRush & Tallgrass Film Association. Presented by Fidelity Bank. Additional support comes from Squid Ink Creative, KMUW 89.1 Wichita Public Radio, KWCH Channel 12, Alt 1073, Patterson Legal Group, and the Wichita Carnegie Library.";s:4:"link";s:27:"https://vimeo.com/222281042";s:8:"duration";i:323;s:5:"width";i:1920;s:6:"height";i:1080;s:5:"embed";O:8:"stdClass":1:{s:4:"html";s:274:"<iframe src="https://player.vimeo.com/video/222281042?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0&app_id=27459" width="1920" height="1080" frameborder="0" title="I&#039;VE GOT THIS : Team 06" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>";}s:12:"created_time";s:25:"2017-06-20T00:00:47+00:00";s:8:"pictures";a:6:{i:0;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:1280;s:6:"height";i:720;s:4:"link";s:47:"https://i.vimeocdn.com/video/640808387_1280.jpg";}i:1;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:960;s:6:"height";i:540;s:4:"link";s:46:"https://i.vimeocdn.com/video/640808387_960.jpg";}i:2;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:640;s:6:"height";i:360;s:4:"link";s:46:"https://i.vimeocdn.com/video/640808387_640.jpg";}i:3;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:295;s:6:"height";i:166;s:4:"link";s:50:"https://i.vimeocdn.com/video/640808387_295x166.jpg";}i:4;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:200;s:6:"height";i:150;s:4:"link";s:50:"https://i.vimeocdn.com/video/640808387_200x150.jpg";}i:5;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:100;s:6:"height";i:75;s:4:"link";s:49:"https://i.vimeocdn.com/video/640808387_100x75.jpg";}}s:4:"tags";a:0:{}s:5:"stats";O:8:"stdClass":3:{s:5:"plays";N;s:5:"likes";i:0;s:8:"comments";i:0;}s:6:"status";s:9:"available";}i:19;O:8:"stdClass":13:{s:3:"uri";s:17:"/videos/222279676";s:4:"name";s:20:"Lucky Feet : Team 05";s:11:"description";s:667:"2017 #DTTW 
+
+Required Elements:
+Emotion : Sadness
+Camera Technique : Dutch Angle
+Location: Heritage Square Park
+Prop / Dialogue : Lucky Feet
+
+Synopsis: A young girl is mulling over conflict with her dad.
+
+
+Credits:
+Producer/Director: Hailey Treas
+DP/Editor: Grayson Estes
+Writer/Actor: Craig Seals
+Assistants: Jon Treas and Haylie Treas
+Composer/Sound mixing: Jeremy Spring
+Actors: Alex Bryant-Stucky, Nick Patrick
+
+
+Co-Created by CreativeRush & Tallgrass Film Association. Presented by Fidelity Bank. Additional support comes from Squid Ink Creative, KMUW 89.1 Wichita Public Radio, KWCH Channel 12, Alt 1073, Patterson Legal Group, and the Wichita Carnegie Library.";s:4:"link";s:27:"https://vimeo.com/222279676";s:8:"duration";i:274;s:5:"width";i:1920;s:6:"height";i:1080;s:5:"embed";O:8:"stdClass":1:{s:4:"html";s:266:"<iframe src="https://player.vimeo.com/video/222279676?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0&app_id=27459" width="1920" height="1080" frameborder="0" title="Lucky Feet : Team 05" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>";}s:12:"created_time";s:25:"2017-06-19T23:47:19+00:00";s:8:"pictures";a:6:{i:0;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:1280;s:6:"height";i:720;s:4:"link";s:47:"https://i.vimeocdn.com/video/640769805_1280.jpg";}i:1;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:960;s:6:"height";i:540;s:4:"link";s:46:"https://i.vimeocdn.com/video/640769805_960.jpg";}i:2;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:640;s:6:"height";i:360;s:4:"link";s:46:"https://i.vimeocdn.com/video/640769805_640.jpg";}i:3;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:295;s:6:"height";i:166;s:4:"link";s:50:"https://i.vimeocdn.com/video/640769805_295x166.jpg";}i:4;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:200;s:6:"height";i:150;s:4:"link";s:50:"https://i.vimeocdn.com/video/640769805_200x150.jpg";}i:5;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:100;s:6:"height";i:75;s:4:"link";s:49:"https://i.vimeocdn.com/video/640769805_100x75.jpg";}}s:4:"tags";a:0:{}s:5:"stats";O:8:"stdClass":3:{s:5:"plays";N;s:5:"likes";i:0;s:8:"comments";i:0;}s:6:"status";s:9:"available";}i:20;O:8:"stdClass":13:{s:3:"uri";s:17:"/videos/222277990";s:4:"name";s:20:"CONFIDENCE : Team 03";s:11:"description";s:456:"2017 #DTTW 
+Student Team
+
+Required Elements:
+Emotion : Confidence
+Camera Technique : Dutch Angle
+Location: Heritage Square Park
+Prop / Dialogue : Colossal Fork
+
+
+Credits:
+Director & Producer: Theron White
+
+Co-Created by CreativeRush & Tallgrass Film Association. Presented by Fidelity Bank. Additional support comes from Squid Ink Creative, KMUW 89.1 Wichita Public Radio, KWCH Channel 12, Alt 1073, Patterson Legal Group, and the Wichita Carnegie Library.";s:4:"link";s:27:"https://vimeo.com/222277990";s:8:"duration";i:234;s:5:"width";i:1920;s:6:"height";i:1080;s:5:"embed";O:8:"stdClass":1:{s:4:"html";s:266:"<iframe src="https://player.vimeo.com/video/222277990?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0&app_id=27459" width="1920" height="1080" frameborder="0" title="CONFIDENCE : Team 03" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>";}s:12:"created_time";s:25:"2017-06-19T23:30:02+00:00";s:8:"pictures";a:6:{i:0;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:1280;s:6:"height";i:720;s:4:"link";s:47:"https://i.vimeocdn.com/video/640806576_1280.jpg";}i:1;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:960;s:6:"height";i:540;s:4:"link";s:46:"https://i.vimeocdn.com/video/640806576_960.jpg";}i:2;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:640;s:6:"height";i:360;s:4:"link";s:46:"https://i.vimeocdn.com/video/640806576_640.jpg";}i:3;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:295;s:6:"height";i:166;s:4:"link";s:50:"https://i.vimeocdn.com/video/640806576_295x166.jpg";}i:4;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:200;s:6:"height";i:150;s:4:"link";s:50:"https://i.vimeocdn.com/video/640806576_200x150.jpg";}i:5;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:100;s:6:"height";i:75;s:4:"link";s:49:"https://i.vimeocdn.com/video/640806576_100x75.jpg";}}s:4:"tags";a:0:{}s:5:"stats";O:8:"stdClass":3:{s:5:"plays";N;s:5:"likes";i:0;s:8:"comments";i:0;}s:6:"status";s:9:"available";}i:21;O:8:"stdClass":13:{s:3:"uri";s:17:"/videos/222275410";s:4:"name";s:14:"LOOT : Team 02";s:11:"description";s:737:"2017 #DTTW 
+Student Team
+
+Required Elements:
+Emotion : Euphoira
+Camera Technique : Dutch Angle
+Location: Heritage Square Park
+Prop / Dialogue : Bite-Sized Feet
+
+Synopsis: Richie steals from the wrong man and has to do his best to escape before his actions catch up to him.
+
+Credits:
+Director: Drew Whitmire
+Producer: Justin Beydili
+Editor: Cesar Ramos
+Director of Photography: Cesar Ramos
+Composer: Justin Beydili
+Sound/Audio Director: Quinlan Roth
+Starring: Charlie Ellison as Richie
+
+
+Co-Created by CreativeRush & Tallgrass Film Association. Presented by Fidelity Bank. Additional support comes from Squid Ink Creative, KMUW 89.1 Wichita Public Radio, KWCH Channel 12, Alt 1073, Patterson Legal Group, and the Wichita Carnegie Library.";s:4:"link";s:27:"https://vimeo.com/222275410";s:8:"duration";i:362;s:5:"width";i:1920;s:6:"height";i:1080;s:5:"embed";O:8:"stdClass":1:{s:4:"html";s:260:"<iframe src="https://player.vimeo.com/video/222275410?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0&app_id=27459" width="1920" height="1080" frameborder="0" title="LOOT : Team 02" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>";}s:12:"created_time";s:25:"2017-06-19T23:02:51+00:00";s:8:"pictures";a:6:{i:0;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:1280;s:6:"height";i:720;s:4:"link";s:47:"https://i.vimeocdn.com/video/640765945_1280.jpg";}i:1;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:960;s:6:"height";i:540;s:4:"link";s:46:"https://i.vimeocdn.com/video/640765945_960.jpg";}i:2;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:640;s:6:"height";i:360;s:4:"link";s:46:"https://i.vimeocdn.com/video/640765945_640.jpg";}i:3;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:295;s:6:"height";i:166;s:4:"link";s:50:"https://i.vimeocdn.com/video/640765945_295x166.jpg";}i:4;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:200;s:6:"height";i:150;s:4:"link";s:50:"https://i.vimeocdn.com/video/640765945_200x150.jpg";}i:5;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:100;s:6:"height";i:75;s:4:"link";s:49:"https://i.vimeocdn.com/video/640765945_100x75.jpg";}}s:4:"tags";a:0:{}s:5:"stats";O:8:"stdClass":3:{s:5:"plays";N;s:5:"likes";i:0;s:8:"comments";i:0;}s:6:"status";s:9:"available";}i:22;O:8:"stdClass":13:{s:3:"uri";s:17:"/videos/222273889";s:4:"name";s:21:"AFTER HOURS : Team 01";s:11:"description";s:449:"2017 #DTTW 
+
+Required Elements:
+Emotion : 
+Camera Technique : Dutch Angle
+Location: Heritage Square Park
+Prop / Dialogue : 
+
+
+Credits:
+1. Kelcy Yadon
+2. Matt Rasico
+3. Josie Clayclamp
+4. BJ Hatter
+
+
+Co-Created by CreativeRush & Tallgrass Film Association. Presented by Fidelity Bank. Additional support comes from Squid Ink Creative, KMUW 89.1 Wichita Public Radio, KWCH Channel 12, Alt 1073, Patterson Legal Group, and the Wichita Carnegie Library.";s:4:"link";s:27:"https://vimeo.com/222273889";s:8:"duration";i:271;s:5:"width";i:1920;s:6:"height";i:1080;s:5:"embed";O:8:"stdClass":1:{s:4:"html";s:267:"<iframe src="https://player.vimeo.com/video/222273889?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0&app_id=27459" width="1920" height="1080" frameborder="0" title="AFTER HOURS : Team 01" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>";}s:12:"created_time";s:25:"2017-06-19T22:47:14+00:00";s:8:"pictures";a:6:{i:0;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:1280;s:6:"height";i:720;s:4:"link";s:47:"https://i.vimeocdn.com/video/640762599_1280.jpg";}i:1;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:960;s:6:"height";i:540;s:4:"link";s:46:"https://i.vimeocdn.com/video/640762599_960.jpg";}i:2;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:640;s:6:"height";i:360;s:4:"link";s:46:"https://i.vimeocdn.com/video/640762599_640.jpg";}i:3;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:295;s:6:"height";i:166;s:4:"link";s:50:"https://i.vimeocdn.com/video/640762599_295x166.jpg";}i:4;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:200;s:6:"height";i:150;s:4:"link";s:50:"https://i.vimeocdn.com/video/640762599_200x150.jpg";}i:5;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:100;s:6:"height";i:75;s:4:"link";s:49:"https://i.vimeocdn.com/video/640762599_100x75.jpg";}}s:4:"tags";a:0:{}s:5:"stats";O:8:"stdClass":3:{s:5:"plays";N;s:5:"likes";i:0;s:8:"comments";i:0;}s:6:"status";s:9:"available";}i:23;O:8:"stdClass":13:{s:3:"uri";s:17:"/videos/222273075";s:4:"name";s:50:"BONNIE RAY GUNN : Team 40 - Female Filmmaker Award";s:11:"description";s:952:"2017 #DTTW : FEMALE-LED FILMMAKER AWARD
+Presented by Wichita Female Filmmakers Club
+
+Required Elements:
+Emotion : Euphoria
+Camera Technique : Dutch Angle
+Location: Heritage Square Park
+Prop / Dialogue : Colossal Shadow
+
+Synopsis: Action hero Bonnie-Ray Gunn has to save the multiverse from a dimension hopping evil shadow monster. 
+
+Credits:
+Director: Gina Nugen
+Producer: Gina Nugen
+Writer: Roy Nugen
+Director of Photography: Nate Jones
+Editor: Nate Jones
+Costume Design: Gina Nugen
+Makeup and Hair Design: Haylee Jones
+Crew: Nathan Bryant
+Soundtrack: Indian Rope Trick
+Bonnie-Ray Gunn: Careth Beard
+The Dark One: Molly Tully
+Big Bob: Bill Loop
+Little Bob: Lyle Valentine
+Ronny-Ray Gunn: Roy Nugen
+
+
+
+Co-Created by CreativeRush & Tallgrass Film Association. Presented by Fidelity Bank. Additional support comes from Squid Ink Creative, KMUW 89.1 Wichita Public Radio, KWCH Channel 12, Alt 1073, Patterson Legal Group, and the Wichita Carnegie Library.";s:4:"link";s:27:"https://vimeo.com/222273075";s:8:"duration";i:250;s:5:"width";i:1920;s:6:"height";i:1080;s:5:"embed";O:8:"stdClass":1:{s:4:"html";s:296:"<iframe src="https://player.vimeo.com/video/222273075?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0&app_id=27459" width="1920" height="1080" frameborder="0" title="BONNIE RAY GUNN : Team 40 - Female Filmmaker Award" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>";}s:12:"created_time";s:25:"2017-06-19T22:39:02+00:00";s:8:"pictures";a:6:{i:0;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:1280;s:6:"height";i:720;s:4:"link";s:47:"https://i.vimeocdn.com/video/640760599_1280.jpg";}i:1;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:960;s:6:"height";i:540;s:4:"link";s:46:"https://i.vimeocdn.com/video/640760599_960.jpg";}i:2;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:640;s:6:"height";i:360;s:4:"link";s:46:"https://i.vimeocdn.com/video/640760599_640.jpg";}i:3;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:295;s:6:"height";i:166;s:4:"link";s:50:"https://i.vimeocdn.com/video/640760599_295x166.jpg";}i:4;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:200;s:6:"height";i:150;s:4:"link";s:50:"https://i.vimeocdn.com/video/640760599_200x150.jpg";}i:5;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:100;s:6:"height";i:75;s:4:"link";s:49:"https://i.vimeocdn.com/video/640760599_100x75.jpg";}}s:4:"tags";a:0:{}s:5:"stats";O:8:"stdClass":3:{s:5:"plays";N;s:5:"likes";i:0;s:8:"comments";i:0;}s:6:"status";s:9:"available";}i:24;O:8:"stdClass":13:{s:3:"uri";s:17:"/videos/222271761";s:4:"name";s:35:"OPTIMUM OPPONENT : Team 39 - TOP 10";s:11:"description";s:835:"2017 #DTTW : TOP 10
+
+Required Elements:
+Emotion : Fear
+Camera Technique : Dutch Angle
+Location: Heritage Square Park
+Prop / Dialogue : Blue Bicycle
+
+Synopsis: An inside look into the world of backyard wrestling and the characters that inhabit it.
+
+Credits:
+Director: Kevin Wildt
+Producer: Kevin Wildt
+Editor: Kevin Wildt
+Director of Photography: Kevin Wildt
+Motion Graphics: Travis Krause
+Actor: Chance Borgman
+Actor: Martin Swiggart
+Actor: Matt Wiseman
+Actor: Silas Miller
+Actor Nick Coco
+Actress: Spencer Sinclair
+Special Thanks: Hannah Scott, Bailey Russell, Ryan & Leslie Tanner
+
+
+Co-Created by CreativeRush & Tallgrass Film Association. Presented by Fidelity Bank. Additional support comes from Squid Ink Creative, KMUW 89.1 Wichita Public Radio, KWCH Channel 12, Alt 1073, Patterson Legal Group, and the Wichita Carnegie Library.";s:4:"link";s:27:"https://vimeo.com/222271761";s:8:"duration";i:364;s:5:"width";i:1920;s:6:"height";i:1080;s:5:"embed";O:8:"stdClass":1:{s:4:"html";s:281:"<iframe src="https://player.vimeo.com/video/222271761?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0&app_id=27459" width="1920" height="1080" frameborder="0" title="OPTIMUM OPPONENT : Team 39 - TOP 10" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>";}s:12:"created_time";s:25:"2017-06-19T22:27:44+00:00";s:8:"pictures";a:6:{i:0;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:1280;s:6:"height";i:720;s:4:"link";s:47:"https://i.vimeocdn.com/video/640805717_1280.jpg";}i:1;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:960;s:6:"height";i:540;s:4:"link";s:46:"https://i.vimeocdn.com/video/640805717_960.jpg";}i:2;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:640;s:6:"height";i:360;s:4:"link";s:46:"https://i.vimeocdn.com/video/640805717_640.jpg";}i:3;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:295;s:6:"height";i:166;s:4:"link";s:50:"https://i.vimeocdn.com/video/640805717_295x166.jpg";}i:4;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:200;s:6:"height";i:150;s:4:"link";s:50:"https://i.vimeocdn.com/video/640805717_200x150.jpg";}i:5;O:8:"stdClass":4:{s:4:"type";s:9:"thumbnail";s:5:"width";i:100;s:6:"height";i:75;s:4:"link";s:49:"https://i.vimeocdn.com/video/640805717_100x75.jpg";}}s:4:"tags";a:0:{}s:5:"stats";O:8:"stdClass":3:{s:5:"plays";N;s:5:"likes";i:1;s:8:"comments";i:0;}s:6:"status";s:9:"available";}}}
