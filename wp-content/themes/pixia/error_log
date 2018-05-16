@@ -1,0 +1,6 @@
+[08-Mar-2018 16:16:16 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/content/65/8059865/html/dttwfilmrace.com/wp-content/themes/pixia/index.php on line 2
+[06-Apr-2018 07:37:28 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/content/65/8059865/html/dttwfilmrace.com/wp-content/themes/pixia/404.php on line 1
+[07-Apr-2018 00:55:31 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/content/65/8059865/html/dttwfilmrace.com/wp-content/themes/pixia/archive.php on line 2
+[08-Apr-2018 06:16:20 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/content/65/8059865/html/dttwfilmrace.com/wp-content/themes/pixia/index.php on line 2
+[09-Apr-2018 08:24:14 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/content/65/8059865/html/dttwfilmrace.com/wp-content/themes/pixia/404.php on line 1
+[10-Apr-2018 06:06:10 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/content/65/8059865/html/dttwfilmrace.com/wp-content/themes/pixia/404.php on line 1

@@ -1,0 +1,1 @@
+<form method="get" class="searchform" action="<?php echo esc_url( home_url( '/' ) ); ?>">	<div class="search-box">	<span class="search-icon fa-search"></span>		<input type="text" class="search-field" value="<?php echo get_search_query(); ?>" name="s" placeholder="<?php echo esc_attr__('Search','skyline');?>" />			</div></form>

@@ -1,0 +1,17 @@
+<div class="row">
+<div class="col-md-12">
+[text name placeholder "Your Name"]
+</div>
+<div class="col-md-6">
+[email email placeholder "Email Address"]
+</div>
+<div class="col-md-6">
+[tel phone placeholder "Phone"]
+</div>
+<div class="col-md-12">
+[textarea message placeholder "Message"]
+</div>
+<div class="col-md-12">
+[submit "Send Message"]
+</div>
+</div>

@@ -1,0 +1,174 @@
+.jspTrack
+{
+    background-color: transparent;
+    background-image: url('../img/dark-35.png');
+}
+
+.jspDrag
+{
+    background-color: transparent;
+    background-image: url('../img/dark-70.png');
+}
+
+header
+{
+    background-image: url('../img/dark-75.png');
+}
+
+header #header-logo
+{
+    background-image: url('../img/dark-25.png');
+    border-right-color: #000;
+}
+
+header nav li a.selected
+{
+    background-image: url('../img/dark-25.png');
+}
+
+header nav li ul li a
+{
+    background-image: url('../img/dark-75.png');
+}
+
+#header-top
+{
+    background-image: url('../img/dark-95.png');
+}
+
+footer
+{
+    background-image: url('../img/dark-75.png');
+}
+
+footer #footer-player
+{
+    background-image: url('../img/dark-25.png');
+}
+
+footer #footer-player div
+{
+    background-image: url('../img/dark-15.png');
+}
+
+#footer-bottom
+{
+    background-image: url('../img/dark-95.png');
+}
+
+#section-page #section-page-wrapper
+{
+    background-image: url('../img/dark-75.png');
+}
+
+#section-page #section-page-wrapper #section-page-content #section-page-content-commentsform .section-page-content-comments-field input, 
+#section-page #section-page-wrapper #section-page-content #section-page-content-commentsform .section-page-content-comments-field textarea
+{
+    background-image: url('../img/dark-25.png');
+}
+
+#section-page #section-page-wrapper #section-page-content #section-page-content-commentsform .section-page-content-comments-field input:focus, 
+#section-page #section-page-wrapper #section-page-content #section-page-content-commentsform .section-page-content-comments-field textarea:focus
+{
+    background-image: url('../img/dark-35.png');
+}
+
+#section-video-wrapper #section-video
+{
+    background-image: url('../img/dark-75.png');
+}
+        
+#section-videofull-wrapper
+{
+    background-image: url('../img/dark-75.png');
+}
+
+#menu-page li a
+{
+    background-image: url('../img/dark-75.png');
+}
+
+#section-collection-container .collection-box .collection-box-border
+{
+    background-image: url('../img/dark-75.png');
+}
+
+#section-collection-container .collection-box .collection-box-content
+{
+    background-image: url('../img/dark-75.png');
+}
+
+#section-collection-container .collection-box.collection-box-pageimagelink .collection-box-pageimagelink-content
+{
+    background-image: url('../img/dark-35.png');
+}
+
+#section-collection-container .collection-box.collection-box-quote .collection-box-content
+{
+    background-image: url('../img/dark-75.png');
+}
+
+#section-collection-container .collection-box.collection-box-link .collection-box-content
+{
+    background-image: url('../img/dark-75.png');
+}
+
+#section-collection-container .collection-box.collection-box-image .collection-box-image-caption span
+{
+    background-image: url('../img/dark-35.png');
+}
+
+.post-list.post-list-odd
+{
+    background-image: url('../img/dark-35.png');
+}
+
+.post-list.post-list-even
+{
+    background-image: url('../img/dark-25.png');
+}
+
+.post-list a.post-list-readmore
+{
+    background-image: url('../img/dark-35.png');
+}
+
+.post-list a.post-list-readmore:hover
+{
+    background-image: url('../img/dark-15.png');
+}
+
+#section-gallery #section-gallery-thumbs
+{
+    background-image: url('../img/dark-65.png');
+}
+
+#section-gallery #section-gallery-image
+{
+    background-image: url('../img/dark-85.png');
+}
+
+#home-claim span
+{
+    background-image: url('../img/white-75.png');
+}
+
+.form
+{
+    background-image: url('../img/dark-35.png');
+}
+
+.form .form-input.form-input-text input
+{
+    background-image: url('../img/dark-25.png');
+}
+
+.form .form-input.form-input-textarea textarea
+{
+    background-image: url('../img/dark-25.png');
+}
+
+.form-message
+{
+    background-image: url('../img/dark-15.png');
+}

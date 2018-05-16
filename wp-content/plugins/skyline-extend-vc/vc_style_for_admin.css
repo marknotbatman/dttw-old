@@ -1,0 +1,88 @@
+/* ========== ADMIN ICONS SKYLINE THEME ========== */
+.skyline_icon a, .skyline_icon a:link {
+color: #1b96d1;
+}
+.skyline_icon {
+    background-image: url("vc_img/skyline_icons.png");
+    background-position: 0px 0px;
+    background-repeat: no-repeat;
+    display: block;
+    margin: 0px;
+    width: 32px;
+    height: 32px;
+}
+.skyline_icon_separator {
+    background-position: 0px 0px;
+}
+.skyline_icon_posts_grid {
+    background-position: 0px -32px;
+}
+.skyline_icon_team {
+    background-position: 0px -64px;
+}
+.skyline_icon_team2 {
+    background-position: 0px -96px;
+}
+.skyline_icon_pricing1 {
+    background-position: 0px -128px;
+}
+.skyline_icon_pricing2 {
+    background-position: 0px -160px;
+}
+.skyline_icon_heading {
+    background-position: 0px -192px;
+}
+.skyline_icon_google_map {
+    background-position: 0px -224px;
+}
+.skyline_icon_contact_form {
+    background-position: 0px -256px;
+}
+.skyline_icon_counter {
+    background-position: 0px -288px;
+}
+.skyline_icon_icons {
+    background-position: 0px -320px;
+}
+.skyline_icon_testimonials {
+    background-position: 0px -352px;
+}
+.skyline_icon_shop {
+    background-position: 0px -384px;
+}
+.skyline_icon_button {
+    background-position: 0px -416px;
+}
+.skyline_icon_cta {
+    background-position: 0px -448px;
+}
+.skyline_icon_timeline {
+    background-position: 0px -480px;
+}
+.skyline_icon_list {
+    background-position: 0px -512px;
+}
+.skyline_icon_image {
+    background-position: 0px -544px;
+}
+.skyline_icon_gallery {
+    background-position: 0px -576px;
+}
+.skyline_icon_portfolio {
+    background-position: 0px -608px;
+}
+.skyline_icon_posts_slider {
+    background-position: 0px -640px;
+}
+.skyline_icon_carousel {
+    background-position: 0px -672px;
+}
+.header-wrapper {
+position: relative;
+}
+.vc_element_label, .wpb_element_label {
+    font-weight: 600;
+    margin-bottom: 5px;
+    display: block;
+    margin-top: 15px;
+}

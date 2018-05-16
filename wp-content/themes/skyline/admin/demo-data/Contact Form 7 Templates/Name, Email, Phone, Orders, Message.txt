@@ -1,0 +1,41 @@
+<div class="row">
+<div class="col-md-12">
+[text name placeholder "Your Name"]
+</div>
+<div class="col-md-6">
+[email email placeholder "Email Address"]
+</div>
+<div class="col-md-6">
+[tel phone placeholder "Phone"]
+</div>
+<div class="col-md-4">
+[select menu-184 "Chicken Dinner" "Steak Dinner" "Seafood Platter" "Pasta Dish"]
+</div>
+<div class="col-md-2">
+[number number-774 min:0 max:10 step:1]
+</div>
+<div class="col-md-4">
+[select menu-185 "Chicken Dinner" "Steak Dinner" "Seafood Platter" "Pasta Dish"]
+</div>
+<div class="col-md-2">
+[number number-775 min:0 max:10 step:1]
+</div>
+<div class="col-md-4">
+[select menu-186 "Chicken Dinner" "Steak Dinner" "Seafood Platter" "Pasta Dish"]
+</div>
+<div class="col-md-2">
+[number number-776 min:0 max:10 step:1]
+</div>
+<div class="col-md-4">
+[select menu-187 "Chicken Dinner" "Steak Dinner" "Seafood Platter" "Pasta Dish"]
+</div>
+<div class="col-md-2">
+[number number-777 min:0 max:10 step:1]
+</div>
+<div class="col-md-12">
+[textarea message placeholder "Message"]
+</div>
+<div class="col-md-12">
+[submit "Place Order"]
+</div>
+</div>

@@ -1,0 +1,16 @@
+/*------------------------------------------------------------------
+[Master Stylesheet]
+
+Project:	Pixia Theme
+Version:	1.0
+Author:	Pirenko 
+-------------------------------------------------------------------*/
+
+@charset "UTF-8";
+$css_theme_gutter: 16px;
+
+@import "compass/css3";
+
+@import "custom.scss";
+@import "other.scss";
+@import "woocommerce.scss";

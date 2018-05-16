@@ -1,0 +1,40 @@
+header
+{
+    nav
+    {
+        display: none;
+    }
+    
+    #header-select
+    {
+        display: block;
+    }
+}
+
+#section-page
+{
+    &.section-page-width-full, &.section-page-width-100, &.section-page-width-90, &.section-page-width-80, &.section-page-width-70, &.section-page-width-60, &.section-page-width-50, &.section-page-width-40
+    {
+        width: 100%;
+        left: 0 !important;
+        right: 0 !important;
+    }
+}
+
+#menu-page
+{
+    display: none;
+}
+
+@media screen and (max-width: 980px)
+{
+    #wrapper, #container
+    {
+        width: 980px;
+    }
+    
+    #wrapper, #container, footer, #ico-fullscreen, #ico-right, #ico-left
+    {
+        position: absolute;
+    }
+}
